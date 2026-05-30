@@ -1,6 +1,18 @@
-# Hello, World! I'm Sanish Bhandari 👋
+<p align="center">
+  <img src="github_banner.png" alt="Sanish Bhandari's Cyberpunk Banner" width="100%" />
+</p>
 
-### Aspiring Full-Stack Developer & BCA Student from Nepal 🇳🇵
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=00FFFF&background=02040800&center=true&vCenter=true&width=435&lines=SANISH+BHANDARI;FULL-STACK+DEVELOPER;CREATIVE+CODER;BCA+STUDENT" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=SANIshbhandari&color=ff00ff&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+</p>
+
+# Hello, World! I'm Sanish Bhandari 👋
 
 Welcome to my digital terminal. I specialize in building high-fidelity web applications, responsive interactive user interfaces, and custom 3D web experiences. Currently exploring decentralized ecosystems, WebGL, and advanced frontend animations.
 
